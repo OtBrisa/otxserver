@@ -1,7 +1,7 @@
 -- The OTX Server Config
 
 	-- Owner Data
-	ownerName = "Mattyx14"
+	ownerName = ""
 	ownerEmail = "darkylive@live.com.mx"
 	url = ""
 	site = ""
